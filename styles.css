@@ -150,10 +150,10 @@
                             box-shadow: 0 0 5px 0 var(--focus-color);
                         }
                     }
+                }
 
-                    .btn {
-                        align-self: stretch;
-                    }
+                .btn {
+                    align-self: stretch;
                 }
             }
 
